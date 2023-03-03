@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["forkast.news"],
+    domains: ["forkast.news", "lh3.googleusercontent.com"],
   },
 };
 
